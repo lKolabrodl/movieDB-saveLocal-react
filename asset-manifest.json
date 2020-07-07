@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/movieDB-saveLocal-react/static/css/main.c28d4196.chunk.css",
+    "main.js": "/movieDB-saveLocal-react/static/js/main.e789863d.chunk.js",
+    "main.js.map": "/movieDB-saveLocal-react/static/js/main.e789863d.chunk.js.map",
+    "runtime-main.js": "/movieDB-saveLocal-react/static/js/runtime-main.74cdbfff.js",
+    "runtime-main.js.map": "/movieDB-saveLocal-react/static/js/runtime-main.74cdbfff.js.map",
+    "static/js/2.159e3bb9.chunk.js": "/movieDB-saveLocal-react/static/js/2.159e3bb9.chunk.js",
+    "static/js/2.159e3bb9.chunk.js.map": "/movieDB-saveLocal-react/static/js/2.159e3bb9.chunk.js.map",
+    "index.html": "/movieDB-saveLocal-react/index.html",
+    "precache-manifest.1a99d65054bd6423734e0540bafa0dfd.js": "/movieDB-saveLocal-react/precache-manifest.1a99d65054bd6423734e0540bafa0dfd.js",
+    "service-worker.js": "/movieDB-saveLocal-react/service-worker.js",
+    "static/css/main.c28d4196.chunk.css.map": "/movieDB-saveLocal-react/static/css/main.c28d4196.chunk.css.map",
+    "static/js/2.159e3bb9.chunk.js.LICENSE.txt": "/movieDB-saveLocal-react/static/js/2.159e3bb9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74cdbfff.js",
+    "static/js/2.159e3bb9.chunk.js",
+    "static/css/main.c28d4196.chunk.css",
+    "static/js/main.e789863d.chunk.js"
+  ]
+}
